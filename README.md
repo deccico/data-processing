@@ -1,1 +1,2 @@
-# data-processing
+# Usage
+python process.py data/
